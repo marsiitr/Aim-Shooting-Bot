@@ -28,7 +28,7 @@ Nitesh Arora
 Aman Singh
 
 MECHANICAL 
-Ply board
+Ply board                              
 Timing belt(4cm) with pulleys
 BB Gun
 L channel
