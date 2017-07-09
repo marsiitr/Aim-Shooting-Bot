@@ -50,9 +50,10 @@ Nitesh Arora
 Aman Singh
 
 
+
 COMPONENTS REQUIRED
 
-MECHANICAL 
+MECHANICAL -
 
 Ply board   
 
@@ -65,7 +66,7 @@ L channel
 Breadboard
 
 
-ELECTRICAL
+ELECTRICAL -
 
 2 Arduino UNO
 
