@@ -12,6 +12,7 @@ Then the coordinates of that point will get transferred to other phone(1) using 
 Then the gun will adjust accordingly with the help of motion along given two axis using 2 servo motors and will shoot at the target.
 
 TEAM MEMBERS
+
 1.Nivya Theresa Jose
 2.Gaurav Singhal
 3.Sachin Chopra
@@ -22,12 +23,14 @@ TEAM MEMBERS
 8.Bhupesh Hada
 
 MENTORS
+
 Prashant Shekhar Singh
 Krishna
 Nitesh Arora
 Aman Singh
 
 MECHANICAL 
+
 Ply board                              
 Timing belt(4cm) with pulleys
 BB Gun
@@ -35,6 +38,7 @@ L channel
 Breadboard
 
 ELECTRICAL
+
 2 Arduino UNO
 Motor driver L298
 Servo motor
