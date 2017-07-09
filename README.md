@@ -50,6 +50,8 @@ Nitesh Arora
 Aman Singh
 
 
+COMPONENTS REQUIRED
+
 MECHANICAL 
 
 Ply board   
