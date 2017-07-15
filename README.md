@@ -1,5 +1,5 @@
 # Aim-Shooting-Bot
-ABSTRACT
+## ABSTRACT
 
 The aim of the project is to make a moving bot that will shoot at the target.
 
@@ -20,15 +20,15 @@ Then the coordinates of that point will get transferred to other phone(1) using 
 Then the gun will adjust accordingly with the help of motion along given two axis using 2 servo motors and will shoot at the target.
 
 
-TEAM MEMBERS
+## TEAM MEMBERS
 
-1.Abhinav Tyagi
+#### 1.Abhinav Tyagi
 
-2.Anupam 
+#### 2.Anupam 
 
-3.Bhupesh Hada
+#### 3.Bhupesh Hada
 
-4.Kapil Golimar
+#### 4.Kapil Golimar
 
 5.Gaurav Singhal
 
@@ -39,7 +39,7 @@ TEAM MEMBERS
 8.Samarth Gubrele
 
 
-MENTORS
+## MENTORS
 
 Prashant Shekhar Singh
 
@@ -51,9 +51,9 @@ Aman Singh
 
 
 
-COMPONENTS REQUIRED
+## COMPONENTS REQUIRED
 
-MECHANICAL -
+### MECHANICAL -
 
 Ply board   
 
@@ -66,7 +66,7 @@ L channel
 Breadboard
 
 
-ELECTRICAL -
+### ELECTRICAL -
 
 2 Arduino UNO
 
