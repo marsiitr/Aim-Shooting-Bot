@@ -30,13 +30,15 @@ Then the gun will adjust accordingly with the help of motion along given two axi
 
 #### 4.Kapil Golimar
 
-5.Gaurav Singhal
+#### 5.Sai Kiran Saindla
 
-6.Nivya Theresa Jose
+6.Gaurav Singhal
 
-7.Sachin Chopra
+7.Nivya Theresa Jose
 
-8.Samarth Gubrele
+8.Sachin Chopra
+
+9.Samarth Gubrele
 
 
 ## MENTORS
