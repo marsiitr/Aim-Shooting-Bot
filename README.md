@@ -22,15 +22,15 @@ Then the gun will adjust accordingly with the help of motion along given two axi
 
 ## TEAM MEMBERS
 
-#### 1.Abhinav Tyagi
+1.Abhinav Tyagi
 
-#### 2.Anupam 
+2.Anupam 
 
-#### 3.Bhupesh Hada
+3.Bhupesh Hada
 
-#### 4.Kapil Golimar
+4.Kapil Golimar
 
-#### 5.Sai Kiran Saindla
+5.Sai Kiran Saindla
 
 6.Gaurav Singhal
 
